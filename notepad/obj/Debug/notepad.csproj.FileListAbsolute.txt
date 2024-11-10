@@ -1,0 +1,27 @@
+C:\Users\garuka\source\repos\notepad\notepad\bin\Debug\notepad.exe.config
+C:\Users\garuka\source\repos\notepad\notepad\bin\Debug\notepad.exe
+C:\Users\garuka\source\repos\notepad\notepad\bin\Debug\notepad.pdb
+C:\Users\garuka\source\repos\notepad\notepad\obj\Debug\notepad.csproj.AssemblyReference.cache
+C:\Users\garuka\source\repos\notepad\notepad\obj\Debug\notepad.Form1.resources
+C:\Users\garuka\source\repos\notepad\notepad\obj\Debug\notepad.Properties.Resources.resources
+C:\Users\garuka\source\repos\notepad\notepad\obj\Debug\notepad.csproj.GenerateResource.cache
+C:\Users\garuka\source\repos\notepad\notepad\obj\Debug\notepad.csproj.CoreCompileInputs.cache
+C:\Users\garuka\source\repos\notepad\notepad\obj\Debug\notepad.exe
+C:\Users\garuka\source\repos\notepad\notepad\obj\Debug\notepad.pdb
+D:\images\notepad\notepad\notepad\bin\Debug\notepad.exe.config
+D:\images\notepad\notepad\notepad\bin\Debug\notepad.exe
+D:\images\notepad\notepad\notepad\bin\Debug\notepad.pdb
+D:\images\notepad\notepad\notepad\obj\Debug\notepad.csproj.AssemblyReference.cache
+D:\images\notepad\notepad\notepad\obj\Debug\notepad.Form1.resources
+D:\images\notepad\notepad\notepad\obj\Debug\notepad.Properties.Resources.resources
+D:\images\notepad\notepad\notepad\obj\Debug\notepad.csproj.GenerateResource.cache
+D:\images\notepad\notepad\notepad\obj\Debug\notepad.csproj.CoreCompileInputs.cache
+D:\images\notepad\notepad\notepad\obj\Debug\notepad.exe
+D:\images\notepad\notepad\notepad\obj\Debug\notepad.pdb
+D:\ALL\git projects\notepad\notepad\notepad\obj\Debug\notepad.csproj.AssemblyReference.cache
+D:\ALL\git projects\notepad\notepad\notepad\obj\Debug\notepad.Form1.resources
+D:\ALL\git projects\notepad\notepad\notepad\obj\Debug\notepad.Properties.Resources.resources
+D:\ALL\git projects\notepad\notepad\notepad\obj\Debug\notepad.csproj.GenerateResource.cache
+D:\ALL\git projects\notepad\notepad\notepad\obj\Debug\notepad.csproj.CoreCompileInputs.cache
+D:\ALL\git projects\notepad\notepad\notepad\obj\Debug\notepad.exe
+D:\ALL\git projects\notepad\notepad\notepad\obj\Debug\notepad.pdb
